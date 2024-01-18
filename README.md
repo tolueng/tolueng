@@ -11,7 +11,7 @@
   
 </p>
 
- ![Elif's GitHub stats](https://github-readme-stats.vercel.app/api?username=tolueng&show_icons=true&theme=radical)
+ ![Elif's GitHub stats](https://github-readme-stats.vercel.app/api?username=tolueng&show_icons=true&theme=dark)
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
