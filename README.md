@@ -11,9 +11,12 @@
   
 </p>
 
- ![Elif's GitHub stats](https://github-readme-stats.vercel.app/api?username=tolueng&show_icons=true&theme=dark)
-
- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tolueng&layout=compact&theme=dark)
+<div class='container'>
+  <img style="height: auto; width: 55%;" class="img" src="https://github-readme-stats.vercel.app/api?username=tolueng&show_icons=true&theme=dark" />
+  &nbsp;
+  &nbsp;
+  <img style="height: auto; width: 40%;" class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tolueng&layout=compact&theme=dark" />
+</div>
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
@@ -29,3 +32,7 @@
   [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=elifsimaydemir&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=false)](https://spotify-github-profile.vercel.app/api/view?uid=elifsimaydemir&redirect=true)
   
 </div>
+
+---
+
+[![](https://visitcount.itsvg.in/api?id=tolueng&icon=0&color=0)](https://visitcount.itsvg.in)
