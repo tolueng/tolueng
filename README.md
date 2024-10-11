@@ -4,7 +4,7 @@
   
   My coding journey began with the curiosity to understand how the virtual world comes to life through lines of code. From the basic "Hello, World!" to navigating complex algorithms, every challenge has been a stepping stone in my learning adventure. 
 
-  I'm Elif, also known as Eli, a passionate student of Coding and Software Engineering currently in my third semester. 🚀
+  I'm Elif, also known as Eli, a passionate student of Coding and Software Engineering currently in my fifth semester. 🚀
   - 💡 Fast learner, always excited about discovering new technologies.
   - 🧠 INTJ-T personality type.
   - ☕ Coffee lover.
